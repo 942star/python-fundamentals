@@ -2,27 +2,27 @@
 set NAME=Python-Fundamentals
 title %NAME%
 color 0A
-set mainfolder=%CD%
-
+set url=https://github.com/Wind-Kyle/python-fundamentals.git
+set branch=origin/master
 
 goto fetch
 goto report_issue
 
 
-:download
+:initialize
 echo.
-echo Starting Download the files ...
-git clone https://github.com/Wind-Kyle/python-fundamentals.git
+echo Initializing git ...
+git init
+git remote add %branch% %url%
 
 
 :fetch
-if not exist "%mainfolder%\..\%NAME%" goto download
+if not exist "%CD%\.git" goto initialize
 echo.
 echo Updating for latest files ...
 echo.
-cd "%mainfolder%"
-git reset --hard HEAD
-git fetch
+cd "%CD%"
+git fetch %url%
 
 
 :report_issue
