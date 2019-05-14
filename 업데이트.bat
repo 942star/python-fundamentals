@@ -22,7 +22,8 @@ echo.
 echo Updating for latest files ...
 echo.
 cd "%CD%"
-git fetch %url%
+git reset --hard FETCH_HEAD
+git fetch --all
 
 
 :report_issue
