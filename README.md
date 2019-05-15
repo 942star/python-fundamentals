@@ -78,3 +78,9 @@
 - broadcasting
 
 ## 13. Numpy (3) / Scipy
+
+---
+
+## 문의사항
+- issues page: https://github.com/Wind-Kyle/python-fundamentals/issues
+- e-mail: windkyle7@gmail.com
