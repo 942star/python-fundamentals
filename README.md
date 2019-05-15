@@ -3,15 +3,20 @@
   <li>AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/</li>
   <li>LMS 홈페이지: https://lms.koipa.or.kr/</li>
 </ul>
-  
+
 <div align="center">
+  <p>
+    주관
+  </p>
   <a href='https://www.msit.go.kr/web/main/main.do'>
     <img src='https://ifh.cc/g/roAFV.jpg' width="200" height="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href='https://lms.koipa.or.kr/'>
     <img src='https://ifh.cc/g/2rcgq.png' width="200" height="50" />
   </a>
 </div>
+<br/>
 
 파이썬 기본에 대해 다룹니다.
 
