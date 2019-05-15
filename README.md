@@ -1,7 +1,6 @@
 # IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)
-
-AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/
-LMS 홈페이지: https://lms.koipa.or.kr/
+- AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/
+- LMS 홈페이지: https://lms.koipa.or.kr/
 
 <center>
   <table align='center'>
