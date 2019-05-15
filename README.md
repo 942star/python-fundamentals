@@ -1,10 +1,10 @@
-<div align="center">
-  <h1>IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)</h1>
-  <ul>
-    <li>AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/</li>
-    <li>LMS 홈페이지: https://lms.koipa.or.kr/</li>
-  </ul>
+<h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)</h1>
+<ul>
+  <li>AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/</li>
+  <li>LMS 홈페이지: https://lms.koipa.or.kr/</li>
+</ul>
   
+<div align="center">
   <a href='https://www.msit.go.kr/web/main/main.do'>
     <img src='https://ifh.cc/g/roAFV.jpg' width="200" height="50" />
   </a>
