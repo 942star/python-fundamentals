@@ -5,9 +5,7 @@
 </ul>
 
 <div align="center">
-  <p>
-    주관
-  </p>
+  <h2 style='font-weight: bold; font-size:18px;'>주관</h2>
   <a href='https://www.msit.go.kr/web/main/main.do'>
     <img src='https://ifh.cc/g/roAFV.jpg' width="200" height="50" />
   </a>
