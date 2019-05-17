@@ -1,4 +1,10 @@
 <h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)</h1>
+<center>
+  Git Blog: https://wind-kyle.github.io/python-fundamentals/
+</center>
+
+
+[노트 필기](https://wind-kyle.github.io/python-fundamentals/notes/)
 
 파이썬 기본에 대해 다룹니다.
 
