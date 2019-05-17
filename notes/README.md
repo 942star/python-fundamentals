@@ -11,6 +11,7 @@
 - [09. OOP(Object-Oriented Programming)](https://wind-kyle.github.io/python-fundamentals/notes/09.%20OOP(Object-Oriented%20Programming).html)
 - [10. Error and Exception](https://wind-kyle.github.io/python-fundamentals/notes/10.%20Error%20and%20Exception.html)
 - [11. import, from, as, underscore, etc](https://wind-kyle.github.io/python-fundamentals/notes/11.%20import%2C%20from%2C%20as%2C%20underscore%2C%20etc.html)
+- [12. 12. OOP(Object-Oriented Programming) Part.2](https://wind-kyle.github.io/python-fundamentals/notes/12.%20OOP(Object-Oriented%20Programming)%20Part%202.html)
 
 jupyter notebook을 실행하지 않고 파일을 내려받아 바로 볼 수 있도록 html로 변환하여 올립니다.
 
