@@ -1,8 +1,11 @@
 <h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)</h1>
-<ul>
-  <li>AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/</li>
-  <li>LMS 홈페이지: https://lms.koipa.or.kr/</li>
-</ul>
+
+파이썬 기본에 대해 다룹니다.
+
+자료는 정리가 끝나면 html 파일과 pdf 파일로 변환하여 업로드됩니다.
+
+`업데이트.bat` 파일을 실행하면 새로운 파일이 업로드 될 때마다 자동으로 업데이트합니다.
+
 
 <div align="center">
   <h2 style='font-weight: bold; font-size:18px;'>주관</h2>
@@ -16,9 +19,11 @@
 </div>
 <br/>
 
-파이썬 기본에 대해 다룹니다.
 
-`업데이트.bat` 파일을 실행하면 새로운 파일이 업로드 될 때마다 자동으로 `fetch`합니다.
+## 다운로드
+아래의 이미지처럼 `Clone or download` -> `Download ZIP` 버튼을 누르셔서 자료를 받으실 수 있습니다.
+<img src='https://ifh.cc/g/QpCFB.png' />
+
 
 # 과정 소개
 ## 1. 과정 소개 및 Python (1) - 기본 문법
@@ -84,3 +89,7 @@
 ## 문의사항
 - issues page: https://github.com/Wind-Kyle/python-fundamentals/issues
 - e-mail: windkyle7@gmail.com
+<ul>
+  <li>AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/</li>
+  <li>LMS 홈페이지: https://lms.koipa.or.kr/</li>
+</ul>
