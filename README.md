@@ -24,6 +24,10 @@
 아래의 이미지처럼 `Clone or download` -> `Download ZIP` 버튼을 누르셔서 자료를 받으실 수 있습니다.
 <img src='https://ifh.cc/g/QpCFB.png' />
 
+혹은 다음과 같이 `git clone` 커맨드로 받으실 수 있습니다.
+```dos
+git clone https://github.com/Wind-Kyle/python-fundamentals.git
+```
 
 # 과정 소개
 ## 1. 과정 소개 및 Python (1) - 기본 문법
