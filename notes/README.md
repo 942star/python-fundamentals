@@ -17,7 +17,7 @@
 - [15. NumPy Part.2-1](https://wind-kyle.github.io/python-fundamentals/notes/15.%20NumPy%20Part%202-1.html)
 - [16. NumPy Part.2-2](https://wind-kyle.github.io/python-fundamentals/notes/16.%20NumPy%20Part%202-2.html)
 - [특강(오후). Web Crawling and Scraping](https://wind-kyle.github.io/python-fundamentals/notes/특강.%20Web%20Crawling%20and%20Scraping.html)
-- [특강(저녁). Docker](https://wind-kyle.github.io/python-fundamentals/notes/특강.%20Docker.md)
+- [특강(저녁). Docker](https://wind-kyle.github.io/python-fundamentals/notes/특강.%20Docker)
 
 jupyter notebook을 실행하지 않고 파일을 내려받아 바로 볼 수 있도록 html로 변환하여 올립니다.
 
