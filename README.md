@@ -1,6 +1,6 @@
 <h1 text-align='center'>IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)</h1>
 
-- [AI Course (Fundamentals) 페이지로 이동](https://wind-kyle.github.io/AI-Course-Fundamentals/)
+- [AI Course (Fundamentals) 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/)
 - [GitHub Blog 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/)
 - [노트 필기 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/notes/)
 
