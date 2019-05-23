@@ -19,6 +19,3 @@
 - [특강(오후). Web Crawling and Scraping](https://wind-kyle.github.io/python-fundamentals/notes/특강.%20Web%20Crawling%20and%20Scraping.html)
 - [특강(저녁). Docker](https://wind-kyle.github.io/python-fundamentals/notes/특강.%20Docker)
 
-jupyter notebook을 실행하지 않고 파일을 내려받아 바로 볼 수 있도록 html로 변환하여 올립니다.
-
-자료는 수업이 끝나고 정리가 완료되면 업로드합니다.
