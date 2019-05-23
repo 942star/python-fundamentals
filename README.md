@@ -1,3 +1,5 @@
+<img src='https://ifh.cc/g/YGgbw.png' />
+
 # [IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)](https://wind-kyle.github.io/python-fundamentals/)
 
 - [AI Course (Fundamentals) 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/)
@@ -33,6 +35,8 @@ git clone https://github.com/Wind-Kyle/python-fundamentals.git
 ```
 
 # 과정 소개
+<img src='https://ifh.cc/g/Lo5wU.png' />
+
 ## 1. 과정 소개 및 Python (1) - 기본 문법
 - Python 소개 
 - Python 개발 환경 (Anaconda 등) 
