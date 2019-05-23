@@ -32,6 +32,6 @@ echo Please check the issue, before report it.
 echo :: %url% ::
 echo.
 set /P menu=Do you want to go to the Issues page? (y/n):
-if "%menu%"=="y" start https://github.com/Wind-Kyle/python-fundamentals/issues/
+if "%menu%"=="y" start %url%/issues/
 if "%menu%"=="n" echo Good Bye!
 pause
