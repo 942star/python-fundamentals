@@ -2,7 +2,7 @@
 set NAME=Python-Fundamentals
 title %NAME%
 color 0A
-set url=https://github.com/Wind-Kyle/python-fundamentals.git
+set url=https://github.com/Wind-Kyle/python-fundamentals
 set branch=origin/master
 
 goto fetch
@@ -29,7 +29,7 @@ git fetch --all
 :report_issue
 echo.
 echo Please check the issue, before report it.
-echo :: https://github.com/Wind-Kyle/python-fundamentals/ ::
+echo :: %url% ::
 echo.
 set /P menu=Do you want to go to the Issues page? (y/n):
 if "%menu%"=="y" start https://github.com/Wind-Kyle/python-fundamentals/issues/
