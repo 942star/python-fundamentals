@@ -3,7 +3,7 @@
 # [IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)](https://wind-kyle.github.io/python-fundamentals/)
 
 - [AI Course (Fundamentals) 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/)
-- [노트 필기 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/notes/)
+- [노트 필기 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/notes/doc/)
 
 파이썬 기본에 대해 다룹니다.
 
