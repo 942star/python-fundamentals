@@ -10,7 +10,7 @@
 - [08. Decorator](https://wind-kyle.github.io/python-fundamentals/doc/08.%20Decorator)
 - [09. OOP(Object-Oriented Programming)](https://wind-kyle.github.io/python-fundamentals/doc/09.%20OOP(Object-Oriented%20Programming))
 - [10. Error and Exception](https://wind-kyle.github.io/python-fundamentals/doc/10.%20Error%20and%20Exception)
-- [11. import, from, as, underscore, etc](https://wind-kyle.github.io/python-fundamentals/doc/11.%20import%2C%20from%2C%20as%2C%20underscore%2C%20etc)
+- [11. Module](https://wind-kyle.github.io/python-fundamentals/doc/11.%20Module)
 - [12. OOP(Object-Oriented Programming) Part.2](https://wind-kyle.github.io/python-fundamentals/doc/12.%20OOP(Object-Oriented%20Programming)%20Part%202)
 - [13. NumPy](https://wind-kyle.github.io/python-fundamentals/doc/13.%20NumPy)
 - [14. NumPy Part.2](https://wind-kyle.github.io/python-fundamentals/doc/14.%20NumPy%20Part%202)
