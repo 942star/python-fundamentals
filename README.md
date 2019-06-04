@@ -15,7 +15,7 @@
     <img src='https://ifh.cc/g/roAFV.jpg' width="200" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href='https://lms.koipa.or.kr/'>
+  <a href='https://ai.koipa.or.kr/'>
     <img src='https://ifh.cc/g/2rcgq.png' width="200" height="50" />
   </a>
 </div>
