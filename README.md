@@ -2,7 +2,7 @@
 
 # [IPA 주관 AI 이노베이션 스퀘어 기본과정: 파이썬(Python)](https://wind-kyle.github.io/python-fundamentals/)
 - GitHub Blog: https://wind-kyle.github.io/
-- [데이터 분석 기본(AI Course Fundamentals) 페이지로 이동](https://wind-kyle.github.io/ai-course-fundamentals/)
+- [데이터 분석 및 기계학습(AI Course Fundamentals) 페이지로 이동](https://github.com/Wind-Kyle/ai-course-fundamentals)
 - [노트 필기 페이지로 이동](https://wind-kyle.github.io/python-fundamentals/doc/)
 
 파이썬 기본에 대해 다룹니다.<br/>
