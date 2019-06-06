@@ -91,7 +91,5 @@ git clone https://github.com/Wind-Kyle/python-fundamentals.git
 ## 문의사항
 - issues page: https://github.com/Wind-Kyle/python-fundamentals/issues
 - e-mail: windkyle7@gmail.com
-<ul>
-  <li>AI 이노베이션 스퀘어 홈페이지: https://ai.koipa.or.kr/</li>
-  <li>LMS 홈페이지: https://lms.koipa.or.kr/</li>
-</ul>
+- AI 이노베이션 스퀘어: https://ai.koipa.or.kr/
+- LMS 홈페이지: https://lms.koipa.or.kr/
