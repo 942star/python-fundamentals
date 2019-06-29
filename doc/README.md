@@ -19,4 +19,3 @@
 - [특강(오후). Web Crawling and Scraping](https://wind-kyle.github.io/python-fundamentals/doc/특강.%20Web%20Crawling%20and%20Scraping)
 - [특강(저녁). Docker](https://wind-kyle.github.io/python-fundamentals/doc/특강.%20Docker)
 
-[뒤로가기](https://wind-kyle.github.io/python-fundamentals/)
